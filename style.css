@@ -1,0 +1,21 @@
+#fake{
+  display: block;
+  padding: 20px;
+  color: black;
+  margin: 16px;
+  background: white;
+  box-shadow: 10px 10px;
+}
+body{
+  background: #0D21A1;
+  color: white;
+  text-align: center;
+  }
+  #god{
+    width: 50%;
+    border-radius: 50%
+  }
+  a{
+    text-decoration: none;
+    color: ghostwhite
+  }
